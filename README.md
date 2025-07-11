@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Shreya Santra
 
-<!--
-**shreyasantradata/shreyasantradata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc in Statistics | 📊 Aspiring Data Analyst & Data Scientist  
+🔍 Passionate about turning data into actionable insights using Python, R, SQL, and Excel  
+💻 Currently building data analysis projects and exploring statistical modeling
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Data Analysis: Excel, SQL, Power BI
+- Statistical Programming: R, Python, Minitab
+- Techniques: Hypothesis Testing, Regression, Sampling, Bootstrap
+- Tools: GitHub, Git, Jupyter, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Portfolio Projects
+- [📘 Student Performance Analysis using Excel](https://github.com/shreyasantradata/student-performance-analysis)  
+- (More projects coming soon!)
+
+## 🌱 Currently Learning
+- Google Data Analytics Course (In Progress)
+- Real-world dashboard and data storytelling
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/shreya-santra2704/)  
+- 📧 Email: shreya.santra12@gmail.com
